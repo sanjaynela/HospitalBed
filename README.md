@@ -3,5 +3,5 @@ A C/C++ networking application to assign beds to clients based on hospitals ‘d
 
 Socket connections are established through TCP and UDP.
 
-Dijkstra’s algorithm also used to find shortest distance between the server nodes.
+Dijkstra’s algorithm is also used to find shortest distance between the server nodes.
 
